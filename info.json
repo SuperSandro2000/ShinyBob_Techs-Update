@@ -1,6 +1,6 @@
 {
 	"name": "ShinyBob_Techs_Update",
-	"version": "0.17.1",
+	"version": "0.17.2",
 	"factorio_version": "0.17",
 	"title": "ShinyBob Techs Update",
 	"author": "Qumojo/qjm123, Nexela, Inequalitix, Zombiee, Kamsta99, SuperSandro2000",
@@ -27,7 +27,7 @@
 		"? loaderRedux >= 1.2.0",
 		"? longer-belts-redux >= 0.16.0",
 		"? Laser_Beam_Turrets >= 0.2.0",
-		"? ShinyBobGraphics >= 0.16.0"
+		"? ShinyBob_Graphics >= 0.16.0"
 	],
 	"description": "Tech Icons and order/sort update for Bob's mods, no revamp, nor graphic game objects changes."
 }
